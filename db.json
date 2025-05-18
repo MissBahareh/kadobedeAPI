@@ -1,6 +1,24 @@
 {
   "users": [
-    { "id": 1, "name": "Alice" },
-    { "id": 2, "name": "Bob" }
+    {
+      "id": 1,
+      "title": "بانوان",
+      "image": "https://i.imgur.com/wQl4zQk.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "آقایان",
+      "image": "https://i.imgur.com/KpuamXw.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "دخترانه",
+      "image": "https://i.imgur.com/PyzDnm9.png"
+    },
+    {
+      "id": 4,
+      "title": "پسرانه",
+      "image": "https://i.imgur.com/ubn4cUz.png"
+    }
   ]
 }
