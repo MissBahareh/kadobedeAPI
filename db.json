@@ -25,11 +25,13 @@
     {
       "id": 101,
       "title": "عنوان 1",
+      "image": "https://i.imgur.com/DbGp63T.png",
       "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ..."
     },
     {
       "id": 102,
       "title": "عنوان 2",
+      "image": "https://i.imgur.com/WJRSZVN.jpeg",
       "content": "از صنعت چاپ و با استفاده از طراحان گرافیک است..."
     }
   ]
