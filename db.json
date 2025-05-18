@@ -2,23 +2,23 @@
   "users": [
     {
       "id": 1,
-      "title": "بانوان",
-      "image": "https://i.imgur.com/wQl4zQk.jpeg"
+      "title": "پوشاک",
+      "image": "https://i.imgur.com/4ZJvENB.jpeg"
     },
     {
       "id": 2,
-      "title": "آقایان",
-      "image": "https://i.imgur.com/KpuamXw.jpeg"
+      "title": "اکسسوری",
+      "image": "https://i.imgur.com/tH1nkGn.png"
     },
     {
       "id": 3,
-      "title": "دخترانه",
-      "image": "https://i.imgur.com/PyzDnm9.png"
+      "title": "آرایشی و بهداشتی",
+      "image": "https://i.imgur.com/SRi6fbH.jpeg"
     },
     {
       "id": 4,
-      "title": "پسرانه",
-      "image": "https://i.imgur.com/ubn4cUz.png"
+      "title": "باکس هدیه",
+      "image": "https://i.imgur.com/KqVQsY0.jpeg"
     }
   ]
 }
