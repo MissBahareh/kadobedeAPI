@@ -49,25 +49,25 @@
       "id": 1,
       "loaderText": "خدمات پس از خرید",
       "textContent": "میزبان صدای گرمتان هستیم. هدف تیم پشتیبانی ما تلاش با تمام قوا برای ارائه بهترین خدمات به مشتریان عزیز می باشد.",
-      "imageUrl": ""
+      "imageUrl": "https://i.imgur.com/sABC0A1.png"
     },
     {
       "id": 2,
       "loaderText": "ضمانت بازگشت کالا",
       "textContent": "تا ۷ روز برای احترام به انتخاب مشتریان کالای خریداری شده برگردانده می‌شود.",
-      "imageUrl": ""
+      "imageUrl": "https://i.imgur.com/m5YPEZE.png"
     },
     {
       "id": 3,
       "loaderText": "ضمانت اصالت",
       "textContent": "تمامی کالاها اورجینال و با ضمانت اصل بودن از نمایندگی معتبر تهیه و ارائه می‌شوند.",
-      "imageUrl": ""
+      "imageUrl": "https://i.imgur.com/1s9G1xa.png"
     },
     {
       "id": 4,
       "loaderText": "ارسال سریع و رایگان",
       "textContent": "ارسال رایگان برای خریدهای بالای 2 میلیون تومان و در زمان انتخابی مشتری به سریعترین شکل ممکن می‌باشد.",
-      "imageUrl": ""
+      "imageUrl": "https://i.imgur.com/vmo2wM5.png"
     }
   ]
 }
